@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div>
+  <img src="https://github.com/Qoxxoraliyev/Inomjonov-Islombek/blob/output/github-snake-dark.svg" />
+</div>
+
+
+
 <!--
 **Islombek-inomjonov/Islombek-Inomjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
