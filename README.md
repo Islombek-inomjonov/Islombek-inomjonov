@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <img src="https://github.com/Inomjonov-islombek/Inomjonov-islombek/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/Islombek-inomjonov/Islombek-inomjonov/blob/output/github-snake-dark.svg" />
 </div>
 
 
